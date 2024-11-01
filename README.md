@@ -1,3 +1,7 @@
+
+![Niya Nixon](https://github.com/user-attachments/assets/79b68e5e-0fe5-48df-85fd-fb88c1f41293)
+
+
 # 👋 Hi, I'm Niya Nixon!
 <ul>
   <li>👀 I’m interested in Movies, Guitars, Gaming</li>
@@ -15,6 +19,9 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+
+
 
 ## Connect with me  
 
