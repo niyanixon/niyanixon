@@ -20,7 +20,35 @@
 ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-
+### My Projects 
+<article>
+      <div>
+  <div>
+<table>
+  <tbody><tr>
+    <td width="50%" valign="top">
+      <h3><a></a>Marvel Characters</h3> 
+        <br>
+        <p><a href="https://marvel-characters-production-1158.up.railway.app/" rel="nofollow">Visit Site</a></p>
+        <br>
+        <a href="#" rel="nofollow">
+            <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzNkcHVjNnhpcjB4bWYyY3lvNjQ2Z3NtNzNjbXl5MTdrM2pjam9scSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CqAtx4LpelHxBxJgdp/giphy.gif" style="max-width:100%;">
+        </a>
+    </td>
+   <td width="50%" valign="top">
+      <h3><a></a>T3Takendown</h3> 
+        <br>
+        <p><a href="https://t3takedown.netlify.app/" rel="nofollow">Visit Site</a></p>
+        <br>
+        <a href="#" rel="nofollow">
+         <img width="1369" alt="Screenshot 2024-11-01 at 12 40 19 PM" src="https://github.com/user-attachments/assets/d641cd60-a5d2-4706-99be-a15985e2d690" style="max-width:100%";>
+         </a>
+    </td>
+  </tr>
+</tbody></table>
+</article>
+      </div>
+  </div>
 
 
 ## Connect with me  
