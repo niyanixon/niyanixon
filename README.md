@@ -32,7 +32,7 @@
         <p><a href="https://bobs-burger-site.onrender.com/" rel="nofollow">Visit Site</a></p>
         <br>
         <a href="https://bobs-burger-site.onrender.com/" rel="nofollow">
-            <img width="469" src="https://github.com/user-attachments/assets/cb8ba1e8-b6ce-4ee6-a191-754a57380fb3" style="max-width:100%;">
+            <img width="350" src="https://github.com/user-attachments/assets/cb8ba1e8-b6ce-4ee6-a191-754a57380fb3" style="max-width:100%;">
         </a>
       <p>This application provides an interactive experience for Bob's Burgers fans, offering a comprehensive character list where users can browse profiles, "heart" their favorites, and save them to a personalized collection for quick access, creating a fun and engaging way to celebrate the series.</p>
     </td>
@@ -42,7 +42,7 @@
         <p><a href="https://t3takedown.netlify.app/](https://cuteornah.onrender.com/" rel="nofollow">Visit Site</a></p>
         <br>
         <a href="https://t3takedown.netlify.app/](https://cuteornah.onrender.com/" rel="nofollow">
-         <img width="469" alt="cute or nah" src="https://github.com/user-attachments/assets/6f1cd87d-7772-4a48-8002-903fe661dacd" style="max-width:100%";>
+         <img width="350" alt="cute or nah" src="https://github.com/user-attachments/assets/6f1cd87d-7772-4a48-8002-903fe661dacd" style="max-width:100%";>
          </a>
      <p>This application is like Tinder for cats, presenting users with adorable cat photos to "heart" and save to a favorites collection or skip for the next, offering a fun and interactive way to explore a gallery of charming cats.</p>
     </td>
