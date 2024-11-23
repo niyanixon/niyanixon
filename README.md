@@ -27,22 +27,24 @@
 <table>
   <tbody><tr>
     <td width="50%" valign="top">
-      <h3><a></a>Marvel Characters</h3> 
+      <h3><a></a>Bob's Burgers</h3> 
         <br>
-        <p><a href="https://marvel-characters-production-1158.up.railway.app/" rel="nofollow">Visit Site</a></p>
+        <p><a href="https://bobs-burger-site.onrender.com/" rel="nofollow">Visit Site</a></p>
         <br>
-        <a href="#" rel="nofollow">
-            <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzNkcHVjNnhpcjB4bWYyY3lvNjQ2Z3NtNzNjbXl5MTdrM2pjam9scSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CqAtx4LpelHxBxJgdp/giphy.gif" style="max-width:100%;">
+        <a href="https://bobs-burger-site.onrender.com/" rel="nofollow">
+            <img width="469" src="https://github.com/user-attachments/assets/cb8ba1e8-b6ce-4ee6-a191-754a57380fb3" style="max-width:100%;">
         </a>
+      <p>This application provides an interactive experience for Bob's Burgers fans, offering a comprehensive character list where users can browse profiles, "heart" their favorites, and save them to a personalized collection for quick access, creating a fun and engaging way to celebrate the series.</p>
     </td>
    <td width="50%" valign="top">
-      <h3><a></a>T3Takendown</h3> 
+      <h3><a></a>CUTE OR NAH</h3> 
         <br>
-        <p><a href="https://t3takedown.netlify.app/" rel="nofollow">Visit Site</a></p>
+        <p><a href="https://t3takedown.netlify.app/](https://cuteornah.onrender.com/" rel="nofollow">Visit Site</a></p>
         <br>
-        <a href="#" rel="nofollow">
-         <img width="1369" alt="Screenshot 2024-11-01 at 12 40 19 PM" src="https://github.com/user-attachments/assets/d641cd60-a5d2-4706-99be-a15985e2d690" style="max-width:100%";>
+        <a href="https://t3takedown.netlify.app/](https://cuteornah.onrender.com/" rel="nofollow">
+         <img width="469" alt="cute or nah" src="https://github.com/user-attachments/assets/6f1cd87d-7772-4a48-8002-903fe661dacd" style="max-width:100%";>
          </a>
+     <p>This application is like Tinder for cats, presenting users with adorable cat photos to "heart" and save to a favorites collection or skip for the next, offering a fun and interactive way to explore a gallery of charming cats.</p>
     </td>
   </tr>
 </tbody></table>
