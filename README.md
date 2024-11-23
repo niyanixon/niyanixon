@@ -40,7 +40,7 @@
         <br>
         <p><a href="https://cuteornah.onrender.com/" rel="nofollow">Visit Site</a></p>
         <br>
-        <a href="https://t3takedown.netlify.app/](https://cuteornah.onrender.com/" rel="nofollow">
+        <a href="https://cuteornah.onrender.com/" rel="nofollow">
          <img width="350" alt="cute or nah" src="https://github.com/user-attachments/assets/6f1cd87d-7772-4a48-8002-903fe661dacd" style="max-width:100%";>
          </a>
     </td>
