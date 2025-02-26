@@ -1,4 +1,3 @@
-
 ![Niya Nixon](https://github.com/user-attachments/assets/79b68e5e-0fe5-48df-85fd-fb88c1f41293)
 
 
@@ -27,21 +26,21 @@
 <table>
   <tbody><tr>
     <td width="50%" valign="top">
+      <h3><a></a>Portfolio</h3> 
+        <br>
+        <p><a href="https://2025-portfolio-dstatasxf-niyanixons-projects.vercel.app/" rel="nofollow">Visit Site</a></p>
+        <br>
+        <a href="https://2025-portfolio-dstatasxf-niyanixons-projects.vercel.app/" rel="nofollow">
+          <img width="1636" alt="Screenshot 2025-02-16 at 12 49 27 PM" src="https://github.com/user-attachments/assets/587a82ce-9299-4d84-8fb8-71e66b0f78c2" />
+        </a>
+    </td>
+   <td width="50%" valign="top">
       <h3><a></a>Love At First Bite</h3> 
         <br>
         <p><a href="https://loveatfirstbite-2.onrender.com/" rel="nofollow">Visit Site</a></p>
         <br>
         <a href="https://loveatfirstbite-2.onrender.com/" rel="nofollow">
-            <img width="350" src="https://github.com/user-attachments/assets/ec225e70-4cc5-4b6a-9685-1c16e680c23f" style="max-width:100%;">
-        </a>
-    </td>
-   <td width="50%" valign="top">
-      <h3><a></a>CUTE OR NAH</h3> 
-        <br>
-        <p><a href="https://cuteornah.onrender.com/" rel="nofollow">Visit Site</a></p>
-        <br>
-        <a href="https://cuteornah.onrender.com/" rel="nofollow">
-         <img width="350" alt="cute or nah" src="https://github.com/user-attachments/assets/6f1cd87d-7772-4a48-8002-903fe661dacd" style="max-width:100%";>
+         <img width="1661" alt="Screenshot 2025-02-26 at 9 49 49 AM" src="https://github.com/user-attachments/assets/161fa707-f8b0-4948-b0bf-cfe3afe03886" />
          </a>
     </td>
   </tr>
